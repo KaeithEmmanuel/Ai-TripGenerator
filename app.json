@@ -33,7 +33,8 @@
         {
           "RNMapboxMapsDownloadToken": "pk.eyJ1Ijoia2FlaXRoZWRkdTIwMDQiLCJhIjoiY20wOWVjcGdsMTdhYTJqczQ2OXA4d2tjaCJ9.HixsFDf3hTD10yJar1KFVg"
         }
-      ]
+      ],
+      "expo-font"
     ],
     "experiments": {
       "typedRoutes": true
